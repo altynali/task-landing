@@ -1,0 +1,13 @@
+.content-cont {
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+  height: 45.5vh;
+}
+
+.content-cont h1 {
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-size: 40px;
+  line-height: 50px;
+}

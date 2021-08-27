@@ -1,0 +1,21 @@
+select {
+  font-size: 15px;
+  padding: 8px 36px 8px 16px;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  outline: none;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  background-image: url('../../images/arrow.png');
+  background-repeat: no-repeat;
+  background-size: 16px;
+  background-position: 95% 50%;
+}
+
+.select option {
+  background: #6e105e;
+}
